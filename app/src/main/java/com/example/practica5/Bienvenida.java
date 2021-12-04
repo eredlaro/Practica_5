@@ -42,9 +42,9 @@ ImageView terror,accion,infantil;
         if(age>12&&age<18){
             Toast.makeText(getApplicationContext(), "Eres un puubeerto", Toast.LENGTH_LONG).show();
             terror.setVisibility(View.INVISIBLE);
-        }
+        }git
         if(age>18){
-            Toast.makeText(getApplicationContext(), "Eres un adulto", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Eres una persona mayor de edad", Toast.LENGTH_LONG).show();
         }
     }
 
