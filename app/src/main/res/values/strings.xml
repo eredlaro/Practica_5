@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practica5</string>
+    <string name="Titulo">Pantalla de Registro</string>
+    <string name="Edidt_1">Teclea tu nombre</string>
+    <string name="txv_nombre">Nombre :</string>
+    <string name="Edidt_2">Teclea tu edad</string>
+    <string name="txv_edad">Edad :</string>
+    <string name="Edidt_3">Teclea tu email</string>
+    <string name="txv_email">Email :</string>
+    <string name="rd_hombre">Masculino</string>
+    <string name="rd_mujer">Femenino</string>
+    <string name="titulo_radios">Selecciona tu genero :</string>
+    <string name="titulo_checks">Selecciona tus hobbies :</string>
+    <string name="check1">Caminar </string>
+    <string name="check2">Leer </string>
+    <string name="check3">Comer </string>
+    <string name="check4">Nadar </string>
+    <string name="btn1">Iniciar Registro </string>
+    <string name="btn2">Salir </string>
+    <string name="bienvenida">Bienvenido te registraste correctamente </string>
+
+</resources>
